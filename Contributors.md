@@ -22,6 +22,7 @@ pnordboj
 - [Mohit Marathe](https://github.com/Mohit2758)
 - [Satarupa Deb]( https://github.com/Satarupa22-SD)
 - [Edwin Kim](https://github.com/edwinkim97)
+- [Henrikas Budrys](https://github.com/hbportfolio)
 - [Vijendra Pandey](https://github.com/VijendraPandey)
 - [Utpal Savaliya](https://github.com/utpalsavliya)
 - [mahalakshmikutcharlapati](https://github.com/mahalakshmikutcharlapati)
@@ -1463,6 +1464,7 @@ Add something here
 - [Adeleye Temiloluwa](https://github.com/temiloluwa-js)
 - [Kishan Modasiya](https://github.com/kishumds)
 - [Minerva Phoenix](https://github.com/Reledia)
+- [Cepinana]
 - [Ashvanth.S](https://github.com/ash-01xor)
 - [Imokol Faith Ruth](https://github.com/faithruth)
 - [Rudra Sharma](https://github.com/rudra016)
@@ -4664,3 +4666,4 @@ first contributions - hanyang univ.
 - [Luz Zapata](https://github.com/LuZapata)
 - [Marie Mueller](https://github.com/mariemueller-codes)
 - [Rohan Shetty](https://github.com/rohansh-tty)
+- [Janardhan](https://github.com/janardhankakuri)
